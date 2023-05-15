@@ -2,7 +2,11 @@
 
 # 30 seconds of code
 
-> Short JavaScript code snippets for all your development needs
+* Short JavaScript code snippets for all your development needs
+
+# About us
+* 30 seconds of code is an accessible high-quality knowledge base for developers of all skill levels, established in 2017. Since then, hundreds of short code snippets and programming articles have been created with the help of a large community of contributors. The goal is to make software development more accessible and help the open source community thrive by helping people learn to code.
+
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection.
 * Search for snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
